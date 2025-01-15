@@ -62,7 +62,7 @@ Welcome devs! 👋 Here you'll find all the configuration files that power my de
 | **CD Replacement**                     | 💖 [zoxide](https://github.com/ajeetdsouza/zoxide) |
 | **LS Replacement**                     | [eza](https://github.com/eza-community/eza) |
 | **Cat Replacement**                    | [bat](https://github.com/sharkdp/bat) [⚙️](https://github.com/vabolos/dotfiles/tree/master/.config/bat) |
-| **File Manager**                       | 💖 [yazi](https://yazi-rs.github.io/) [⚙️](https://github.com/vabolos/dotfiles/tree/master/.config/yazi) |
+| **File Manager**                       | 💖 [yazi](https://yazi-rs.github.io/) [⚙️](https://github.com/Vabolos/dotfiles/tree/main/.config/yazi/plugins) |
 | **Fuzzy File Finder**                  | 💖 [fzf](https://github.com/junegunn/fzf) |
 | **Git TUI**                            | [lazygit](https://github.com/jesseduffield/lazygit) |
 | **System Monitor**                     | [btop](https://github.com/aristocratos/btop) [⚙️](https://github.com/vabolos/dotfiles/blob/master/.config/btop/btop.conf) |

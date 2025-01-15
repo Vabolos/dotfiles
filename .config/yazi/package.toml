@@ -1,5 +1,32 @@
-[plugin]
-deps = [{ use = "yazi-rs/plugins:full-border", rev = "ad52adf" }, { use = "imsi32/yatline-githead", rev = "a6377a8" }, { use = "yazi-rs/plugins:smart-filter", rev = "ad52adf" }, { use = "yazi-rs/plugins:hide-preview", rev = "ad52adf" }, { use = "yazi-rs/plugins:git", rev = "ad52adf" }]
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "ad52adf"
+hash = "3a73613fc702a5f8369791b3401f52f1"
+
+[[plugin.deps]]
+use = "imsi32/yatline-githead"
+rev = "a6377a8"
+hash = ""
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-filter"
+rev = "ad52adf"
+hash = "ea24edab4a62c94dbd205adfb6f2c08d"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:hide-preview"
+rev = "ad52adf"
+hash = "79281239b6f3905ba27c76fb1f3ae6d5"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:git"
+rev = "ad52adf"
+hash = "644e8bce49626a98286885a9e3754d8f"
+
+[[plugin.deps]]
+use = "imsi32/yatline"
+rev = "9328205"
+hash = "3e51d1fd8a2e481fcfa8eab1251d1c5f"
 
 [flavor]
 deps = []

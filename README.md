@@ -131,6 +131,18 @@ Part of what makes the open source community special are the contributions. Any 
 
 If you have any ideas or suggestions to make, feel free to [open an issue](https://github.com/vabolos/dotfiles/issues) or [submit a PR](https://github.com/vabolos/dotfiles/pulls)
 
+## 💫 Star History
+
+<a href="https://star-history.com/#vabolos/dotfiles&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=vabolos/dotfiles&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=vabolos/dotfiles&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=vabolos/dotfiles&type=Date" />
+ </picture>
+</a>
+
+<br><br>
+
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>

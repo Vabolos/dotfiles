@@ -76,7 +76,7 @@ This repository utilizes [GNU Stow](https://www.gnu.org/software/stow/) for effi
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/ashish0kumar/dotfiles.git
+    git clone https://github.com/vabolos/dotfiles.git
     cd dotfiles
     ```
 
